@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishekrathor1234321
 - 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning c & c++ & OOPS & PYTHON
+- 🌱 I’m currently learning DSA & OOPS & PYTHON
   
   
 
