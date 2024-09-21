@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhishekrathor1234321
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c & c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by shrada gurjar mam
+- 👀 I’m interested in DATA SCIENCE
+- 🌱 I’m currently learning c & c++ & OOPS & PYTHON
+  
+  
 
 <!---
 Abhishekrathor1234321/Abhishekrathor1234321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
