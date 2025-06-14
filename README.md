@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekrathor1234321
-- 👀 I’m interested in DATA SCIENCE
+- 👀 I’m interested in WEB-DEV/DATA SCIENCE
 - 🌱 I’m currently learning DSA & OOPS & PYTHON
   
   
