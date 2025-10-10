@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @Abhishekrathor1234321
-- 👀 I’m interested in WEB-DEV/DATA SCIENCE
-- 🌱 I’m currently learning DSA & OOPS & PYTHON
-  
-  
+👋 Hi, I’m Abhishek Rathor
 
-<!---
-Abhishekrathor1234321/Abhishekrathor1234321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Web Developer | 🧠 DSA Enthusiast
+
+🎓 I’m a 3rd-year Computer Science Engineering (CSE) student passionate about building real-world web projects and solving algorithmic problems.
+🚀 Founder of SYNTAX ERROR
+ — a community helping students master DSA and Full Stack Development.
+
+⚡ Skills
+
+💻 Languages: C++, JavaScript, Python
+
+🌐 Web Development: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
+
+🧠 DSA: Arrays, Strings, Linked List, Stack, Queue, Trees, Graphs, DP
+
+🧩 Core Concepts: OOPs, Logic Building, Problem Solving
+
+🌱 Currently Learning
+
+Full Stack Web Development
+
+Basics of Data Science
+
+📫 Connect With Me
+
+Instagram: @code.abhii07
+
+LinkedIn: Abhishek Rathor
+
+GitHub: @Abhishekrathor1234321
