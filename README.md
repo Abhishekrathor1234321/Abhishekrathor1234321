@@ -2,7 +2,7 @@
 
 💻 Web Developer | 🧠 DSA Enthusiast
 
-🎓 I’m a 3rd-year Computer Science Engineering (CSE) student passionate about building real-world web projects and solving algorithmic problems.
+🎓 I’m a 4th-year Computer Science Engineering (CSE) student passionate about building real-world web projects and solving algorithmic problems.
 🚀 Founder of SYNTAX ERROR
  — a community helping students master DSA and Full Stack Development.
 
